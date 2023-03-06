@@ -9,6 +9,7 @@
 🌐 Always writing Websites
 - Html
 - Javascript
+- CSS
 - PHP
 
 🐬 For Fun
